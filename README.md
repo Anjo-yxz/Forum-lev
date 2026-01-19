@@ -24,6 +24,8 @@ O Forum-lev é um projeto de fórum criado para auxiliar no aprendizado de:
 a base do meus estudos ,e fiz em um forum
 O objetivo é servir como guia educacional, ajudando iniciantes a entenderem como as coisas funcionam por trás do código.
 
+# <img width="452" height="96" alt="Captura de tela 2026-01-19 085841" src="https://github.com/user-attachments/assets/07438116-68c6-4ae1-b1e4-32c949fd6ad6" />
+
 🛠️ Desenvolvimento
 
 💻 Projeto desenvolvido do zero
