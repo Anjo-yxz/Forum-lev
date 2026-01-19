@@ -1,4 +1,6 @@
 # Forum-lev
+<img width="963" height="305" alt="Captura de tela 2026-01-19 083018" src="https://github.com/user-attachments/assets/533dbd83-362c-4adf-ab83-5b8834d88f9a" />
+
 
 #📢 Aviso Importante
 
